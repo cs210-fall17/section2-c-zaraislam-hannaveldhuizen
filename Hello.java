@@ -20,11 +20,8 @@ public class Hello {
     public static void goldLeader() {
 
         // Gold Leader should add a print statement that says "Loosen up!"
-<<<<<<< HEAD
 	System.out.print(""Loosen up!")
 	Sysyem.out.print("change")
-=======
->>>>>>> 6103d9ca040ddee93ac2f67b00136f91a2bbfeb6
 
 
     }
