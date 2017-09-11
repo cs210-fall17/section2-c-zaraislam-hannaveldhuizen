@@ -21,6 +21,7 @@ public class Hello {
 
         // Gold Leader should add a print statement that says "Loosen up!"
 	System.out.print(""Loosen up!")
+	Sysyem.out.print("change")
 
 
     }
